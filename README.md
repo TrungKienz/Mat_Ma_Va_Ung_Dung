@@ -70,3 +70,6 @@
 - Kết quả khi chạy file python với CBC mode được lưu trong python_CBC-mode_output.txt
 - Kết quả khi chạy file python với CTR mode được lưu trong python_CTR-mode_output.txt
 - Kết quả so sánh hiệu năng được lưu trong performent_output.txt
+
+# Link git
+- Link: https://github.com/TrungKienz/Mat_Ma_Va_Ung_Dung
