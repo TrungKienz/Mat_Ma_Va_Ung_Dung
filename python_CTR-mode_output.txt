@@ -1,0 +1,4 @@
+Encryption Time: 0.14591217041015625ms
+Decryption Time: 0.0591278076171875ms
+Ciphertext: b';\xba{\x975\xa3\xba0\x9a\xa8P\x9e\xde,\xce\x96\xa6\xde\x00\x986\xe4]\x88A\x18\xf9\xb6\xe3I[\r\xf2\xdd#T\nZl\x96'
+Decrypted Text: This is a secret message

@@ -1,0 +1,4 @@
+Encryption Time: 1.222ms
+Decryption Time: 0.587ms
+Ciphertext: p0/HZ/AMh47lPXH0NvVYo2MD/RBsg/nvQ/Hb8dQckpY=
+Decrypted Text: This is a secret message
