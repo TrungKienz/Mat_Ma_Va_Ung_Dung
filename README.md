@@ -63,3 +63,10 @@
 - Chạy file performent_CTR-mode_test.bat để ghi dữ liệu ra file python_CTR-mode_output.txt và javaScript_CTR-mode_output.txt cùng lúc tính toán thời gian chạy của 2 chương trình js và python.
 
 - Chạy file calculate_performent.js để so sánh hiệu suất giữa 2 chương trình
+
+# Kết quả
+- Kết quả khi chạy file js với CBC mode được lưu trong javaScript_CBC-mode_output.txt
+- Kết quả khi chạy file js với CBC mode được lưu trong javaScript_CBC-mode_output.txt
+- Kết quả khi chạy file python với CBC mode được lưu trong python_CBC-mode_output.txt
+- Kết quả khi chạy file python với CTR mode được lưu trong python_CTR-mode_output.txt
+- Kết quả so sánh hiệu năng được lưu trong performent_output.txt

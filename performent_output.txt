@@ -1,0 +1,4 @@
+Thư viện của python nhanh hơn gấp 13.14 lần so với JS trong việc mã hóa bằng AES-CBC mode
+Thư viện của python nhanh hơn gấp 8.23 lần so với JS trong việc giải mã bằng AES-CBC mode
+Thư viện của python nhanh hơn gấp 5.29 lần so với JS trong việc mã hóa bằng AES-CTR mode 
+Thư viện của python nhanh hơn gấp 2.07 lần so với JS trong việc giải mã bằng AES-CTR mode
